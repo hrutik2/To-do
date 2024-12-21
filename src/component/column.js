@@ -15,7 +15,7 @@ export const  Column= ({ title, items, moveTodo, columnStatus, handleDelete }) =
   return (
     <SubContainer ref={drop}>
       <Div>
-        <h1>{title}</h1>
+        <h4>{title}</h4>
       </Div>
       {items.map((item) => (
         <DraggableTodo key={item.id} item={item} handleDelete={handleDelete} />
