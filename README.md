@@ -19,6 +19,12 @@ Start the server: npm start
 Open your browser and navigate to http://localhost:3000
 
 
+# Brief description of the features implemented
+1) uuid -Used to assign distinct keys to dynamic elements like list items, components, or database records.
+2) Styled Components for Styling
+3) Drag-and-Drop Functionality  - for Drag-and-Drop Functionality the React dnd is used
+
+
 
 
 
