@@ -5,10 +5,10 @@ It is lightweight task management application In this app the task was add and d
 ### Deployment
 https://to-do-chi-blond.vercel.app/
 
-# Technology 
+### Technology 
   react,  styled-components ,react_dnd,UUID
 
-# to run locally
+### to run locally
 
 Clone the repository: git clone https://github.com/your-username/to_do.git
 <br></br>
