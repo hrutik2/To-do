@@ -67,8 +67,33 @@ export const DragAndDrop_2 = ({ todo, updateTodoStatus, handleDelete }) => {
 
 
 const Container = styled.div`
-  width: 95%;
+  width: 100%;
   display: flex;
   padding: 20px;
 `;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

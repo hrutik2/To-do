@@ -29,6 +29,7 @@ export const Todo = () => {
 
   return (
     <>
+      <h1 style={{textAlign:"center"}}>Kanban Task Management</h1>
       <AddTodo handleAddTodo={handleAddTodo} />
 
       <DragAndDrop_2
