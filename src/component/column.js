@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { DraggableTodo } from "./DraggableTodo";
-import { useDrag, useDrop } from "react-dnd";
+import { useDrop } from "react-dnd";
 const ItemType = "TODO_ITEM";
 export const  Column= ({ title, items, moveTodo, columnStatus, handleDelete }) => {
   const [, drop] = useDrop({
