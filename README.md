@@ -11,8 +11,11 @@ https://to-do-chi-blond.vercel.app/
 # to run locally
 
 Clone the repository: git clone https://github.com/your-username/to_do.git
+<br></br>
 Install dependencies: npm install
+<br></br>
 Start the server: npm start
+<br></br>
 Open your browser and navigate to http://localhost:3000
 
 
